@@ -1,0 +1,15 @@
+artifact_uri: /home/priyanka/MLFlow/mlruns/0/283cc3c8960949259491a54bbdf3386c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 283cc3c8960949259491a54bbdf3386c
+run_name: valuable-tern-918
+run_uuid: 283cc3c8960949259491a54bbdf3386c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710488926368
+status: 1
+tags: []
+user_id: priyanka

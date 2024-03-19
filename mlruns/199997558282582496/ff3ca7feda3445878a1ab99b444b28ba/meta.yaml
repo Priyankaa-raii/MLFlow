@@ -1,0 +1,15 @@
+artifact_uri: /home/priyanka/MLFlow/mlruns/199997558282582496/ff3ca7feda3445878a1ab99b444b28ba/artifacts
+end_time: 1710487502318
+entry_point_name: ''
+experiment_id: '199997558282582496'
+lifecycle_stage: active
+run_id: ff3ca7feda3445878a1ab99b444b28ba
+run_name: placid-ray-563
+run_uuid: ff3ca7feda3445878a1ab99b444b28ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710487498528
+status: 3
+tags: []
+user_id: priyanka

@@ -1,0 +1,15 @@
+artifact_uri: /home/priyanka/MLFlow/mlruns/199997558282582496/2631745abda64f239a9a2c851be3956c/artifacts
+end_time: 1710487509179
+entry_point_name: ''
+experiment_id: '199997558282582496'
+lifecycle_stage: active
+run_id: 2631745abda64f239a9a2c851be3956c
+run_name: lyrical-penguin-199
+run_uuid: 2631745abda64f239a9a2c851be3956c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710487507193
+status: 3
+tags: []
+user_id: priyanka

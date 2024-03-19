@@ -1,0 +1,15 @@
+artifact_uri: /home/priyanka/MLFlow/mlruns/199997558282582496/58658187ab5f43bb9b18b0fcb0095d60/artifacts
+end_time: 1710487664614
+entry_point_name: ''
+experiment_id: '199997558282582496'
+lifecycle_stage: active
+run_id: 58658187ab5f43bb9b18b0fcb0095d60
+run_name: bouncy-tern-121
+run_uuid: 58658187ab5f43bb9b18b0fcb0095d60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710487662597
+status: 3
+tags: []
+user_id: priyanka

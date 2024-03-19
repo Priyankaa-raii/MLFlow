@@ -1,0 +1,15 @@
+artifact_uri: /home/priyanka/MLFlow/mlruns/910929623247017176/7e32218089ab447a80a5becb3fcb2a79/artifacts
+end_time: 1710503108529
+entry_point_name: ''
+experiment_id: '910929623247017176'
+lifecycle_stage: active
+run_id: 7e32218089ab447a80a5becb3fcb2a79
+run_name: Main_function
+run_uuid: 7e32218089ab447a80a5becb3fcb2a79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710503108441
+status: 4
+tags: []
+user_id: priyanka
